@@ -1,6 +1,6 @@
 # Hi 👋, I'm Rahul Kumeriya
 
-![Twitter Follow](https://img.shields.io/twitter/follow/abuanwar072?label=KumeriyaRahul&logo=twitter&style=for-the-badge)
+![Twitter Follow](https://img.shields.io/twitter/follow/KumeriyaRahul?label=KumeriyaRahul&logo=twitter&style=for-the-badge)
 ![GitHub followers](https://img.shields.io/github/followers/raahoolkumeriya?logo=GitHub&style=for-the-badge)
 ![Medium followers](https://img.shields.io/github/followers/raahoolkumeriya?logo=Medium&style=for-the-badge)
 
@@ -8,17 +8,8 @@
 - 🌱 I'm currently learning **Deep Learning & Machine Learning**
 - [Website](http://codelocked.herokuapp.com/)
 
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=raahoolkumeriya&show_icons=true" alt="raahoolkumeriya" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raahoolkumeriya&hide=html" alt="raahoolkumeriya" /></p>
 <!--
-**raahoolkumeriya/raahoolkumeriya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=raahoolkumeriya&show_icons=true&theme=onedark)
 -->
