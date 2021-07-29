@@ -1,4 +1,12 @@
-### Hi there 👋
+# Hi 👋, I'm Rahul Kumeriya
+
+![Twitter Follow](https://img.shields.io/twitter/follow/abuanwar072?label=KumeriyaRahul&logo=twitter&style=for-the-badge)
+![GitHub followers](https://img.shields.io/github/followers/raahoolkumeriya?logo=GitHub&style=for-the-badge)
+![Medium followers](https://img.shields.io/github/followers/raahoolkumeriya?logo=Medium&style=for-the-badge)
+
+- 🔭 I love to work on `Python`,`Data science`, `Ansible`, `MongoDB`, `Shell Scripts`, `REST API`, `Streamlit`, `Flask`, `FastAPI`, `Openshift`, `python chatbots`.
+- 🌱 I'm currently learning **Deep Learning & Machine Learning**
+- [Website](http://codelocked.herokuapp.com/)
 
 <!--
 **raahoolkumeriya/raahoolkumeriya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
