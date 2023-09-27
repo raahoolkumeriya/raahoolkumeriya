@@ -8,7 +8,7 @@
 
 - 🔭 I love to work on `Python`,`Data science`, `Ansible`, `MongoDB`, `Shell Scripts`, `REST API`, `Streamlit`, `Flask`, `FastAPI`, `Openshift`, `python chatbots`.
 - 🌱 I'm currently learning **Deep Learning & Machine Learning**
-- 💬 [Website](https://rahulkumeriya.herokuapp.com/)
+- 💬 [Website](https://raahoolkumeriya.github.io)
 - 📫 How to reach me **rahulkumeriya@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
